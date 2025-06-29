@@ -26,7 +26,7 @@
 ## 🚀 如何运行？
 
 ### 🧩 方法一：直接下载 `.exe` 文件（免安装）
-👉 [点击这里下载 Release](你的 GitHub Release 链接)
+👉 [点击这里下载 Release](https://github.com/minecraftbeihai/AutoMessageSender/releases/tag/message)
 
 ### 🧰 方法二：运行源代码
 1. 安装依赖：
