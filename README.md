@@ -70,7 +70,7 @@ Choose your language:
 ### 🧰 方法二：运行源代码
 1. 安装依赖：
    ```bash
-   pip install pyautogui pyperclip`
+   pip install pyautogui pyperclip
 2. 运行：`python main.py`
 3. 保证窗口置顶，将焦点切换到目标聊天框
 ---
