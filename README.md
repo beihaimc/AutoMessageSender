@@ -65,7 +65,7 @@ Choose your language:
 ## 🚀 如何运行？
 
 ### 🧩 方法一：直接下载 `.exe` 文件（免安装）
-👉 [点击这里下载 Release](https://github.com/minecraftbeihai/AutoMessageSender/releases/tag/message)
+👉 [点击这里下载 Release](https://github.com/beihaimc/AutoMessageSender/releases/tag/v1.0.0)
 
 ### 🧰 方法二：运行源代码
 1. 安装依赖：
