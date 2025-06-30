@@ -1,6 +1,6 @@
 # AutoMessageSender by 北海
 
-Choose your language:
+Choose language to English:
 
 👉 [🇺🇸 English Docs](./README/README.en.md)
 # 简易自动信息发送器（AutoMessageSender）
