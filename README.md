@@ -2,7 +2,7 @@
 
 Choose language to English:
 
-👉 [🇺🇸 English Docs](./README/README.en.md)
+👉 [English Docs](./README/README.en.md)
 # 简易自动信息发送器（AutoMessageSender）
 
 这是一个由北海制作的带 GUI 的自动信息发送工具，基于 Python 编写，使用 `tkinter` 构建界面，配合 `pyautogui` + `pyperclip` 实现消息的自动复制粘贴与发送。支持快捷键、随机数模式与右键控制等多种功能
